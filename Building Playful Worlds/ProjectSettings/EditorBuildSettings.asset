@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: f9baf4785065662418b17d95216ca04b
+  - enabled: 1
+    path: Assets/Scenes/Narrative.unity
+    guid: fb0b8390f7c42a348a099c1dd0d969eb
+  - enabled: 1
+    path: Assets/BuildingPlayfulWorldsColourSwitch.unity
+    guid: ea8d3a6090b0b6747b21141135a39c66
+  - enabled: 1
+    path: Assets/Scenes/EndMenu.unity
+    guid: 90eb83f66ab46d245a6f23ee42a4ba52
+  m_configObjects: {}
